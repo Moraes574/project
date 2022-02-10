@@ -1,0 +1,52 @@
+*{margin: 0; padding: 0;}
+body{background-color: black;margin: 0px; padding: 0px ;}
+header{margin: 0px; padding:0px ; overflow:hidden; background-color: white; color: rgb(8, 8, 8);height: 94px;position:sticky;}
+
+
+#cabecalho{margin: 0px;}
+#botao ul li{display: inline; float:right; position:relative;}
+#botao ul{padding: 20px;display:table; float: right; position: relative; bottom:36px;}
+
+#logo{max-width: 150px; height: 150px ; } 
+#logo{color: black; float: left; position:relative; left: 50px; bottom: 54px ;  }
+#logo2{ font-size: 20px ; text-align: right; ;padding:10px ; margin:30px;border-bottom: 20px ;;}
+.logo2{ font-size: 20px ; text-align: right; ;padding:10px ; margin:30px;border-bottom: 20px ;color: black;}
+a:hover{color:rgba(167, 152, 152, 0.282);} 
+a{text-decoration: none;color: white;} 
+
+#foto{height: 526px ; position:static; margin-top:16px; margin-right: 10px;}
+
+#sobre{background-color: white; font-family: 'Libre Franklin', sans-serif; font-size: 30px; text-align: center;padding: 25px;
+    word-spacing: 10px;
+    letter-spacing: 20px;
+    margin-top: 11px;
+    margin-bottom:11px ;
+} 
+
+.Sobremim{text-align: center; }
+#sobreMim{height: 390px ; margin-right: 60px;  }
+#sobreMimTxt{font-size: 15px;font-family: 'Libre Franklin', sans-serif  ; color: aliceblue; width: 30%; display: inline-block;
+    margin-top:50px; text-align: left 
+    ;}
+#sobreMimTxt p{margin-bottom:36px;}
+
+#contatos{background-color: white; font-family: 'Libre Franklin', sans-serif; font-size: 30px; text-align: center;padding: 25px;
+    word-spacing: 10px;
+    letter-spacing: 20px;
+    margin-top: 50px;
+    margin-bottom:11px;} 
+
+.orcamento{font-family: 'Libre Franklin', sans-serif; font-size: 15x; color: white; padding: 10px; margin-left: 80px; margin-top: 50px; }    
+.conteudoContato{font-family: 'Libre Franklin', sans-serif; color: white; font-size:20px ; display: inline; float:left; }
+.solicite{margin-left: 30% ;margin-top:123px; font-family: 'Libre Franklin', sans-serif; ; }
+
+#email{width: 60px; margin-left: 180px; margin-top: 80px;}  
+#instagram{width: 100px; margin-left: 160px; margin-top: 60px; }
+#whats{width: 40px; margin-left: 190px; margin-top: 67px;;  } 
+.txt{float: right; margin-top: 76px ; margin-left:30px;}
+.txt2{float:right ;margin-top:65px; margin-right: 100px;}
+.txt3{float:right ;margin-top:55px; margin-right: 135px;} 
+
+section{color: white; max-width: 400px;padding:20px ; float: right; display: inline;margin-right:80px ; margin-top: 95px; }
+input{width: 100%; box-sizing: border-box; padding: 15px; margin: 10px;}
+
