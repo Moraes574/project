@@ -63,19 +63,19 @@ input{width: 400px; box-sizing: border-box; padding: 15px; margin: 10px;}
     #botao li{padding: 7px; font-size: 13px;}
     .logo {width: 64px;}
     #foto img {width: 115px; padding: 0px;}
-    #sobreMim{transform: translateX(0%); margin-top: 30px; width: 100%; margin-left: 10px; font-size: 7px; display: inline-flex; margin-bottom: 30px;}
-    #sobreMimF{width: 110px; margin-left: 70px;}
+    #sobreMim{transform: translateX(0%); margin-top: 30px; width: 350px; margin-left: 10px; font-size: 7px; display: inline-flex; margin-bottom: 30px;}
+    #sobreMimF{width: 110px; margin-left: 80px;}
     .sobre {height: 40px; margin-top: 8px;}
     .sobre p { font-size: 16px; letter-spacing: 15px; word-spacing: 5px ;}
     .contatos {height: 40px; margin-top: 8px;}
     .contatos p { font-size: 16px; letter-spacing: 15px; word-spacing: 5px ;}
     .tabela ul{width: 360px; }
     .icon{width: 30px;}
-    .tabela{float: none; padding-left: 0px; margin-left: 178px; font-size: 10px; }
+    .tabela{float: none; padding-left: 0px; margin-left: 160px; font-size: 10px; }
     .containerForm{ margin-right: 0%; float: none; width: 100px;height: auto; }
     section{width: 50px;}
-    input{width: 400px; margin-left: 40px; }
-    .solicite{display: block;margin-left: 178px; width: 100%;}
+    input{width: 400px; margin-left: 70px; }
+    .solicite{display: block;margin-left: 160px; width: 100%;}
 
 }
 
