@@ -42,7 +42,7 @@ body{background-color: black;}
 
 #list{width: 600px;}
 
-.tabela{color: white; text-decoration: none; margin-top: 50px; float: left; width: 300px; padding-left: 200px; }
+.tabela{color: white; text-decoration: none; margin-top: 50px; float: left; width: 300px; margin-left: 42px; }
 
 .containerForm{width:400px; float: right ; margin-right: 50px; margin-top:40px ;}
 section{color: white;width: 400px;padding:20px ;  display: inline;margin-right:80px ;; }
@@ -62,18 +62,18 @@ input{width: 400px; box-sizing: border-box; padding: 15px; margin: 10px;}
     #botao li{padding: 7px; font-size: 13px;}
     .logo {width: 64px;}
     #foto img {width: 115px; padding: 0px;}
-    #sobreMim{transform: translateX(0%); margin-top: 30px; width: 300px; margin-left: 10px; font-size: 15px; display: inline-flex; margin-bottom: 30px;}
-    #sobreMimF{display: none;}
+    #sobreMim{transform: translateX(0%); margin-top: 30px; width: 300px; margin-left: 10px; font-size: 8px; display: inline-flex; margin-bottom: 30px;}
+    #sobreMimF{width: 110px;}
     .sobre {height: 40px; margin-top: 8px;}
     .sobre p { font-size: 16px; letter-spacing: 15px; word-spacing: 5px ;}
     .contatos {height: 40px; margin-top: 8px;}
     .contatos p { font-size: 16px; letter-spacing: 15px; word-spacing: 5px ;}
     .tabela ul{width: 360px; }
-    .solicite{margin-left: 40px;}
+    
     .tabela{float: none; padding-left: 40px;}
-    .containerForm{ margin-right: 0%; float: none; width: 100px;height: auto; display: none;}
+    .containerForm{ margin-right: 0%; float: none; width: 100px;height: auto; }
     section{width: 50px;}
-    .solicite{display: block;}
+    .solicite{display: block;margin-left: 80px;}
 
 }
 
