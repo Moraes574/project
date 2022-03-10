@@ -74,7 +74,7 @@ input{width: 400px; box-sizing: border-box; padding: 15px; margin: 10px;}
     .tabela{float: none; padding-left: 0px; margin-left: 178px; font-size: 10px; }
     .containerForm{ margin-right: 0%; float: none; width: 100px;height: auto; }
     section{width: 50px;}
-    input{width: 400px; margin-left: 90px;}
+    input{width: 400px; margin-left: 40px; }
     .solicite{display: block;margin-left: 178px; width: 100%;}
 
 }
