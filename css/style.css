@@ -42,7 +42,7 @@ body{background-color: black;}
 
 #list{width: 0px;}
 
-.tabela{color: white; text-decoration: none; margin-top: 50px; float: left; width: 400px; margin-left: 42px; }
+.tabela{color: white; text-decoration: none; margin-top: 50px; float: left; width: 200px; margin-left: 42px; }
 
 .containerForm{width:400px; float: right ; margin-right: 50px; margin-top:40px ;}
 section{color: white;width: 400px;padding:20px ;  display: inline;margin-right:80px ;; }
@@ -74,9 +74,14 @@ input{width: 400px; box-sizing: border-box; padding: 15px; margin: 10px;}
     .tabela{float: none; padding-left: 0px; margin-left: 160px; font-size: 10px; }
     .containerForm{ margin-right: 0%; float: none; width: 100px;height: auto; }
     section{width: 50px;}
-    input{width: 400px; margin-left: 70px; display: none; }
-    .solicite{display: block;margin-left: 160px; width: 100%;}
+    input{width: 400px; margin-left: 70px;  }
+    .solicite{display: block;margin-left: 160px; width: 205px; font-size: 15px;}
 
 }
 
-
+@media (max-width:400px){
+    input {margin-left: 10px; width: 340px;}
+    .tabela{margin-left: 90px;}
+    .solicite{margin-left: 90px;}
+    #sobreMimF{margin-left:30px;}
+}
