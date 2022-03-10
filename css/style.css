@@ -40,9 +40,9 @@ body{background-color: black;}
 
 .solicite{color: white; margin-left: 80px;  margin-top: 50px; display: none;}
 
-#list{width: 600px;}
+#list{width: 0px;}
 
-.tabela{color: white; text-decoration: none; margin-top: 50px; float: left; width: 300px; margin-left: 42px; }
+.tabela{color: white; text-decoration: none; margin-top: 50px; float: left; width: 400px; margin-left: 42px; }
 
 .containerForm{width:400px; float: right ; margin-right: 50px; margin-top:40px ;}
 section{color: white;width: 400px;padding:20px ;  display: inline;margin-right:80px ;; }
@@ -50,7 +50,8 @@ input{width: 400px; box-sizing: border-box; padding: 15px; margin: 10px;}
 
 #separador{margin-top: 65px;}
 
-
+.icon{width: 60px; margin-right: 20px;}
+ p, h3 { font-family:'Libre Franklin', sans-serif; ;}
 
 
 
@@ -69,11 +70,12 @@ input{width: 400px; box-sizing: border-box; padding: 15px; margin: 10px;}
     .contatos {height: 40px; margin-top: 8px;}
     .contatos p { font-size: 16px; letter-spacing: 15px; word-spacing: 5px ;}
     .tabela ul{width: 360px; }
-    
-    .tabela{float: none; padding-left: 40px;}
+    .icon{width: 30px;}
+    .tabela{float: none; padding-left: 0px; margin-left: 22px; font-size: 10px;}
     .containerForm{ margin-right: 0%; float: none; width: 100px;height: auto; }
     section{width: 50px;}
-    .solicite{display: block;margin-left: 80px;}
+    input{width: 330px;}
+    .solicite{display: block;margin-left: 50px;}
 
 }
 
